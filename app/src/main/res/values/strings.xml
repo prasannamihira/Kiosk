@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kiosk</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_screen_shot">Screen shot</string>
+    <string name="pin_enter">Please enter the PIN</string>
+    <string name="hint_screenshot">Screenshot description</string>
+
+    <string name="BASE_URL">http://kiosk.com/api/</string>
+
+    <string name="TEAM_VIEWER_SERVICE_NAME">Kiosk QuickSupport</string>
+    <string name="TEAM_VIEWER_CONFIG_ID">3wfhqw4</string>
+    <string name="TEAM_VIEWER_TOKEN">81cf549b-071f-542a-159d-c392edc74c4a</string>
+
+
+</resources>
